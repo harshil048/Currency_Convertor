@@ -1,3 +1,7 @@
+# Preview
+
+![Capture](https://github.com/harshil048/Currency_Convertor/assets/74892092/c835445a-68be-49ff-b2ba-3350e97a2ecd)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
